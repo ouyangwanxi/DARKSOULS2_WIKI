@@ -1,1 +1,1 @@
-# DARKSOULS2WIKI
+# DarkSouls2Wiki
